@@ -1,4 +1,9 @@
 #include "calculator.h"
+#1000-7
+#1000-7
+#1000-7
+#1000-7
+#1000-7
 
 int Calculator::Add (int a, int b)
 {
